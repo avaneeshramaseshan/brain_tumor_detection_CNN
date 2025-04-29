@@ -10,3 +10,5 @@ TEST/
 TRAIN/
 VAL/
 venv/
+myenv-311/
+.ipynb_checkpoints
