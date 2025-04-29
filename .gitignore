@@ -12,3 +12,7 @@ VAL/
 venv/
 myenv-311/
 .ipynb_checkpoints
+TEST_CROP
+TRAIN_CROP
+VAL_CROP
+preview
