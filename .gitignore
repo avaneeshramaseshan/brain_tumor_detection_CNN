@@ -1,0 +1,8 @@
+*.zip
+*.csv
+*.jpeg
+brain_tumor_dataset/
+yes/
+no/
+keras_pretrained_models/
+brain_mri_images/
