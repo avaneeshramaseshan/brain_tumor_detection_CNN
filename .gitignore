@@ -6,3 +6,7 @@ yes/
 no/
 keras_pretrained_models/
 brain_mri_images/
+TEST/
+TRAIN/
+VAL/
+venv/
